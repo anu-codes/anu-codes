@@ -6,7 +6,7 @@
 
 
 I'm focussed on learning general purpose programming languages and want to develop web applications. 
-I also learn/practice html, css, javascript, typescript, mysql, python, designing and hardware for college classes.
+I also learn/practice HTML, CSS, JavaScript, TypeScript, mySQL, Python, designing etc for college classes.
 
 When I'm not coding, I like to read classic lit, play guitar, make spotify playlists and learn french :D
 
