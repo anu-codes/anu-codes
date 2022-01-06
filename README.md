@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsanoushkab
+- 👋 Hi, I’m Anoushka @itsanoushkab
 - 👀 I’m interested in software development and engineering
 - 🌱 I’m currently self learning Java, C/C++, DSA
 - 💞️ I’m looking to collaborate on web application development
