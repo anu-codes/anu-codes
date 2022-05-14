@@ -1,14 +1,8 @@
-- 👋 Hi, I’m Anoushka @itsanoushkab
-- 👀 I’m interested in software development and engineering
-- 🌱 I’m currently self learning Java, C/C++, DSA
-- 💞️ I’m looking to collaborate on web application development
-- 📫 Let's connect via twitter! I go by @itsanoushkab
-
-
-I'm focussed on learning general purpose programming languages and want to develop web applications. 
-I also learn/practice HTML, CSS, JavaScript, TypeScript, mySQL, Python, designing etc for college classes.
-
-When I'm not coding, I like to read classic lit, play guitar, make spotify playlists and learn french :D
+- 👋 Hi, I’m Anu @anu-codes
+- 👀 I’m interested in blockchain, fintech, open source and web development
+- 🌱 I’m currently learning full stack web development and web3 technologies
+- 💞️ I’m looking to collaborate on web2 and web3 application development
+- 📫 Let's connect via twitter! I go by @anucodes
 
 <!---
 itsanoushkab/itsanoushkab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
