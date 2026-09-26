@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Anu @anu-codes
-- 👀 I’m interested in blockchain, fintech, open source and web development
-- 🌱 I’m currently learning full stack web development and web3 technologies
+- PM @ Unilever
+- Interested in agentic AI, product thinking, and customer experience
 
 <!---
 itsanoushkab/itsanoushkab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
